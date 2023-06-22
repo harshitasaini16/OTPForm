@@ -50,10 +50,12 @@ const OtpForm = ({ count }) => {
   };
 
   const handleSubmit = () => {
-    const otp = inputRef.current.map((x) => {
-      return x.value;
+    let otp = "";
+    inputRef.current.map((x) => {
+      return (otp += x.value);
     });
-    console.log(otp);
+    alert("Your Otp is: " + otp);
+    handleClear();
   };
 
   const arr = useMemo(() => {
