@@ -1,5 +1,12 @@
 Live link: https://otpform-react.netlify.app/
 
+<img width="1435" alt="image" src="https://github.com/harshitasaini16/OtpForm/assets/99383725/976f6927-91ce-4a2e-8d4f-c4f996fbf2cc">
+
+<img width="1437" alt="image" src="https://github.com/harshitasaini16/OtpForm/assets/99383725/73f8897b-3197-489e-a8e4-9e7ac53977e7">
+
+<img width="1434" alt="image" src="https://github.com/harshitasaini16/OtpForm/assets/99383725/58f68bb4-0fd7-4edb-b0c7-527a85bdb49b">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
